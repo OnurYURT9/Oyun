@@ -1,0 +1,1 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.targets(46,5): error MSB8036: Windows SDK sürümü 10.0.18362.0 bulunamadı. Windows SDK'nin gerekli sürümünü yükleyin veya proje özellikleri sayfasından ya da çözüme sağ tıklayıp "Çözümü yeniden hedefle"yi seçerek SDK sürümünü değiştirin.
